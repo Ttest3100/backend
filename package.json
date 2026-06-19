@@ -1,0 +1,12 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "only for testing purpose",
+  "license": "ISC",
+  "author": "Amit Srivastav",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
